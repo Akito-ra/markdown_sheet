@@ -1,1 +1,1 @@
-<span style="font-size: 200%;>akihito</span>
+<span style="font-size: 200%;">akihito</span>
