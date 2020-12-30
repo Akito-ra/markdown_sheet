@@ -1,6 +1,2 @@
-<div style="font-size:200%;">akihito</div><br>
-akihito
-
-ab
---|--
-aba
+#プロフィール
+--名前　寺島晃人（Terashima　Akihito）--　
