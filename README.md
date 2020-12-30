@@ -1,3 +1,3 @@
 # プロフィール
 
---名前　寺島晃人（Terashima　Akihito）--　
+_名前　寺島晃人（Terashima　Akihito）_
