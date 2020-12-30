@@ -1,4 +1,4 @@
-## 寺島晃人　
+### 寺島晃人　
 #### Terashima Akihito
 
 名前
