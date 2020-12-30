@@ -1,4 +1,1 @@
-### 寺島晃人　
-#### Terashima Akihito
-aaaaaaaaaaaa
-名前
+<span style="font-size: 200%;>akihito</span>
