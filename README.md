@@ -35,4 +35,4 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 # 技術・経験
 |種別|内容|
 |--|--|
-|言語|C# &emsp;&emsp;&emsp;&emsp;&nbsp; ---> 3年以上<br>Python,Java,C &nbsp; ---> 2年以上<br> JavaScript ---> 1年半未満<br>html,PHP ---> 1年未満<br>TypeScript ---> 半年未満|
+|言語|C# &emsp;&emsp;&emsp;&emsp;&nbsp; ---> 3年以上<br>Python,Java,C ---> 2年以上<br> JavaScript &nbsp;&nbsp;&nbsp; ---> 1年半未満<br>html,PHP ---> 1年未満<br>TypeScript ---> 半年未満|
