@@ -111,8 +111,14 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 
 **研究人数**
 <br>4人
-**役割**
+<br> **役割**
 <br>システム設計、クライアントサイド構築
+<br> **使用技術**
+<br>html ： クライアントサイド構築
+<br>JavaScript ： Three.js ,Web Audio APIの実装
+<br>Python ： データ管理、音源分離
+<br>PHP : サーバーサイド構築
+<br>その他 : docker ,Herock ,MySQL, 
 <br><br>
 **研究背景**
 <br>昨今、
