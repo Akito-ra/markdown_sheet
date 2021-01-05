@@ -110,7 +110,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 ## 全方位コンテンツの浸透を目指した高臨場感コンテンツデザインシステム
 
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_structure.png">
-
+<br>
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
 
 **研究人数**
