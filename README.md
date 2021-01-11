@@ -67,10 +67,8 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 ## ◇ プロジェクションマッピング
 ### ■ 未来への結び
 本作品は、神社の社へ至る参道をきれいに飾ってほしいという依頼を受け、制作した来場者参加型のコンテンツです
-<br><br>
 
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/musubi.png">
-<br><br>
 
 **詳細：**
 <br>公開時期：2017年8月<br>
@@ -97,9 +95,9 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 
 ### ■ 川床
 本作品では、「川床」をモチーフに施設内に設営したベンチの間を流れていく川をプロジェクションマップを用いて表現しました。真夏の野外イベントにおいて休憩所として来場者の方々に安らぎと涼しさを提供しました。
-<br>
+
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.png">
-<br>
+
 **詳細**
 <br>公開時期：2018年8月<br>
 対象者　：イベント来場者<br>
@@ -133,9 +131,9 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 ### ■ Super Blue
 * 「ユーザの自由な選択・操作からユーザ各々の楽しみ方を見出すことができるコンテンツ」というテーマで作成したVRコンテンツです。<br>
 * ユーザーは、スペインの世界自然遺産であるスーパーブルーという氷の洞窟をモチーフにした洞窟の中を探検し、自由に写真を撮影することができます。
-<br>
+
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/super_blue.jpg">
-<br>
+
 **詳細**
 <br>公開時期：2017年10月<br>
 対象者　：イベント来場者<br>
@@ -161,7 +159,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 
 ## G-Destroy
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/G_Destroy.jpg">
-<br>
+
 **詳細**
 <br>公開時期：2018年10月
 <br>対象者　：イベント来場者
