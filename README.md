@@ -84,9 +84,11 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 ### ■ デジタル紙芝居
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.png">
 <br><br><br>
+
 ### ■ クイズ大会
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/quiz.jpg">
 <br><br><br>
+
 ### ■ 川床
 本作品では、「川床」をモチーフに施設内に設営したベンチの間を流れていく川をプロジェクションマップを用いて表現しました。真夏の野外イベントにおいて休憩所として来場者の方々に安らぎと涼しさを提供しました。
 <br><img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.png">
