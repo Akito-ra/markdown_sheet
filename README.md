@@ -24,11 +24,9 @@ KANAMEプロジェクトは多学科連携の理念のもと、地域の方々�
 KIESプロジェクトは、VRを用いたソリューションを開発することを目的として活動を行います。開発したコンテンツはイベントで展示を行い、実際にコンテンツを体験された方々との対話を基に次のプロジェクトテーマを決定します。<br>
 **役割：** <br>
 私は、プログラマーとしてだけでなく、プロジェクトマネージャーとしてコンテンツの企画・設計やプロジェクトの管理を担当させていただきました。私がプロジェクトを管理する立場として最も力を入れたのは後輩の育成です。プロジェクトを通してそれまでに培ってきたノウハウ特に言語化が困難なノウハウを後輩に伝達することに注力しました。
-
 <br><br>
 
 # ◆ 技術・経験
-
 |種別|内容|
 |--|--|
 |言語|C# &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; ---> 3年以上<br>Python,Java,C ---> 2年以上<br> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> 1年半未満<br>html,PHP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> 1年未満<br>TypeScript &nbsp;&nbsp;&nbsp;&nbsp; ---> 半年未満|
@@ -44,7 +42,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_structure.png">
 <br><br>
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
-<br>
+
 **研究人数：**
 <br>4人
 <br> **役割：**
