@@ -1,5 +1,5 @@
 # ◆ プロフィール
-名前:　**寺島晃人（Terashima　Akihito）** 
+名前:　**Akito-ra** 
 |key|value|
 |----|----|
 |職業|学生 修士1年生|
