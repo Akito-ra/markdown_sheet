@@ -80,14 +80,16 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>Unity（C#）：投影用の映像の作成
 <br>maya ：水連などの3Dモデルの作成<br>
 **ポイント**
-<br>神社の参道を飾るという目的に合わせて、神秘的・幻想的な表現にこだわりライティングやパーティクルの制作を行いました。現場とシミュレータの差に戸惑ったものの実験と調整を繰り返し実施し、幻想的な表現の実現に成功しました。<br><br><br>
+<br>神社の参道を飾るという目的に合わせて、神秘的・幻想的な表現にこだわりライティングやパーティクルの制作を行いました。現場とシミュレータの差に戸惑ったものの実験と調整を繰り返し実施し、幻想的な表現の実現に成功しました。
+<br>
+
 ### ■ デジタル紙芝居
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.png">
-<br><br><br>
+<br>
 
 ### ■ クイズ大会
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/quiz.jpg">
-<br><br><br>
+<br>
 
 ### ■ 川床
 本作品では、「川床」をモチーフに施設内に設営したベンチの間を流れていく川をプロジェクションマップを用いて表現しました。真夏の野外イベントにおいて休憩所として来場者の方々に安らぎと涼しさを提供しました。
@@ -108,11 +110,11 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>html ,JavaScript ： 演出制御用アプリケーション構築
 <br> **ポイント**
 <br>柱やベンチを避けて川が流れる様子を表現するために仮想空間内に現場を再現し、衝突判定ではなく経過時間と加速度情報を設定することにより川の蛇行を表現しました。
-<br><br><br>
+<br>
 
 ## ◇ VR
 ### ■ VR縁日
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/IMG_4816.JPG">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/IMG_4816.JPG" width="50%" height="50%">
 <br>
 
 ### ■ VR GameCenter
@@ -142,10 +144,12 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>maya ：水連などの3Dモデルの作成<br>
 **ポイント**
 <br>・360度空間全体を使った仕掛けとストーリー性を実現するにことよりユーザを作品に引き込む工夫をしています
-<br><br><br>
+<br>
+
 ### ■ 嫌がらせVR
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/baseball.png">
 <br>
+
 ### ■ Spider Nest VR
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/spider_nest.jpg">
 <br>
