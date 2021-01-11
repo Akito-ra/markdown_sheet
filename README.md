@@ -91,17 +91,17 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br><br>
 
 ### ■ デジタル紙芝居
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.png" width="80%>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.png" width="80%">
 <br><br>
 
 ### ■ クイズ大会
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/quiz.jpg" width="80%>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/quiz.jpg" width="80%">
 <br><br>
 
 ### ■ 川床
 本作品では、「川床」をモチーフに施設内に設営したベンチの間を流れていく川をプロジェクションマップを用いて表現しました。真夏の野外イベントにおいて休憩所として来場者の方々に安らぎと涼しさを提供しました。
 
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.png" width="80%>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.png" width="80%">
 
 **詳細**
 <br>公開時期：2018年8月<br>
@@ -126,18 +126,18 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br><br>
 
 ### ■ VR GameCenter
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/game_center.png" width="80%>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/game_center.png" width="80%">
 <br><br>
 
 ### ■ 野菜神輿レース
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/mikoshi.jpg" width="80%>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/mikoshi.jpg" width="80%">
 <br><br>
 
 ### ■ Super Blue
 * 「ユーザの自由な選択・操作からユーザ各々の楽しみ方を見出すことができるコンテンツ」というテーマで作成したVRコンテンツです。<br>
 * ユーザーは、スペインの世界自然遺産であるスーパーブルーという氷の洞窟をモチーフにした洞窟の中を探検し、自由に写真を撮影することができます。
 
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/super_blue.jpg" width="80%>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/super_blue.jpg" width="80%">
 
 **詳細**
 <br>公開時期：2017年10月<br>
@@ -159,11 +159,11 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br><br>
 
 ### ■ Spider Nest VR
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/spider_nest.jpg" width="80%>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/spider_nest.jpg" width="80%">
 <br><br>
 
 ## G-Destroy
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/G_Destroy.jpg" width="80%>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/G_Destroy.jpg" width="80%">
 
 **詳細**
 <br>公開時期：2018年10月
