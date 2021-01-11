@@ -67,9 +67,11 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 ## ◇ プロジェクションマッピング
 ### ■ 未来への結び
 本作品は、神社の社へ至る参道をきれいに飾ってほしいという依頼を受け、制作した来場者参加型のコンテンツです
-<br>
+<br><br>
+
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/musubi.png">
-<br>
+<br><br>
+
 **詳細：**
 <br>公開時期：2017年8月<br>
 対象者　：イベント来場者<br>
