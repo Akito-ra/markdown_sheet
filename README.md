@@ -112,22 +112,22 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 
 ## ◇ VR
 ### ■ VR縁日
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/IMG_4816.JPG">
 <br>
 
 ### ■ VR GameCenter
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/game_center.png">
 <br>
 
 ### ■ 野菜神輿レース
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/mikoshi.jpg">
 <br>
 
 ### ■ Super Blue
 * 「ユーザの自由な選択・操作からユーザ各々の楽しみ方を見出すことができるコンテンツ」というテーマで作成したVRコンテンツです。<br>
 * ユーザーは、スペインの世界自然遺産であるスーパーブルーという氷の洞窟をモチーフにした洞窟の中を探検し、自由に写真を撮影することができます。
 <br>
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/super_blue.jpg">
 
 **詳細**
 <br>公開時期：2017年10月<br>
@@ -144,13 +144,14 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>・360度空間全体を使った仕掛けとストーリー性を実現するにことよりユーザを作品に引き込む工夫をしています
 <br><br><br>
 ### ■ 嫌がらせVR
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/baseball.png">
 <br>
 ### ■ Spider Nest VR
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/spider_nest.jpg">
 <br>
 
 ## G-Destroy
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/G_Destroy.jpg">
 
 **詳細**
 <br>公開時期：2018年10月
