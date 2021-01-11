@@ -166,7 +166,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/spider_nest.jpg" width="80%">
 <br><br>
 
-## G-Destroy
+### ■ G-Destroy
 * 「VRの楽しさを広げる」、「没入感を向上させる」これら2つの目標のもと作成したコンテンツです
 * 本コンテンツ専用のコントローラを作成し、仮想空間と現実空間の親和性を高めること没入感の向上を図っています
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/G_Destroy.jpg" width="80%">
