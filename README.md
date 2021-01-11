@@ -144,7 +144,8 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>・360度空間全体を使った仕掛けとストーリー性を実現するにことよりユーザを作品に引き込む工夫をしています
 <br><br><br>
 ### ■ 嫌がらせVR
-<br><br><br>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
+<br>
 ### ■ Spider Nest VR
 <br>
 
