@@ -45,9 +45,9 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 
 # ◆ 研究
 ## ◇ 全方位コンテンツの浸透を目指した高臨場感コンテンツデザインシステム
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_structure.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_structure.jpg">
 <br><br>
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.jpg">
 
 **研究人数：**
 <br>4人
@@ -76,7 +76,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 * 参道のh装飾にちなんで、テーマは「願い事」としました。
 * 願い事を書いた短冊を専用のボックスに入れることで短冊の色に応じた蓮の花が水面に浮き上がります。花は一定時間経過するか一定数出現したのちに一斉に開花し、散っていきます。
 
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/musubi.png" width="80%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/musubi.jpg" width="80%">
 
 **詳細：**
 <br>公開時期：2017年8月<br>
@@ -94,7 +94,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br><br>
 
 ### ■ デジタル紙芝居
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.png" width="80%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.jpg" width="80%">
 <br><br>
 
 ### ■ クイズ大会
@@ -104,7 +104,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 ### ■ 川床
 本作品では、「川床」をモチーフに施設内に設営したベンチの間を流れていく川をプロジェクションマップを用いて表現しました。真夏の野外イベントにおいて休憩所として来場者の方々に安らぎと涼しさを提供しました。
 
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.png" width="80%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.jpg" width="80%">
 
 **詳細**
 <br>公開時期：2018年8月<br>
@@ -129,7 +129,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br><br>
 
 ### ■ VR GameCenter
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/game_center.png" width="80%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/game_center.jpg" width="80%">
 <br><br>
 
 ### ■ 野菜神輿レース
