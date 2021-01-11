@@ -67,8 +67,9 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 ## ◇ プロジェクションマッピング
 ### ■ 未来への結び
 本作品は、神社の社へ至る参道をきれいに飾ってほしいという依頼を受け、制作した来場者参加型のコンテンツです
+<br>
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/musubi.png">
-
+<br>
 **詳細：**
 <br>公開時期：2017年8月<br>
 対象者　：イベント来場者<br>
@@ -82,20 +83,21 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>maya ：水連などの3Dモデルの作成<br>
 **ポイント**
 <br>神社の参道を飾るという目的に合わせて、神秘的・幻想的な表現にこだわりライティングやパーティクルの制作を行いました。現場とシミュレータの差に戸惑ったものの実験と調整を繰り返し実施し、幻想的な表現の実現に成功しました。
-<br>
+<br><br>
 
 ### ■ デジタル紙芝居
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.png">
-<br>
+<br><br>
 
 ### ■ クイズ大会
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/quiz.jpg">
-<br>
+<br><br>
 
 ### ■ 川床
 本作品では、「川床」をモチーフに施設内に設営したベンチの間を流れていく川をプロジェクションマップを用いて表現しました。真夏の野外イベントにおいて休憩所として来場者の方々に安らぎと涼しさを提供しました。
-<br><img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.png">
-
+<br>
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.png">
+<br>
 **詳細**
 <br>公開時期：2018年8月<br>
 対象者　：イベント来場者<br>
@@ -111,26 +113,27 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>html ,JavaScript ： 演出制御用アプリケーション構築
 <br> **ポイント**
 <br>柱やベンチを避けて川が流れる様子を表現するために仮想空間内に現場を再現し、衝突判定ではなく経過時間と加速度情報を設定することにより川の蛇行を表現しました。
-<br>
+<br><br>
 
 ## ◇ VR
 ### ■ VR縁日
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/IMG_4816.JPG" width="40%" height="40%">
-<br>
+<br><br>
 
 ### ■ VR GameCenter
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/game_center.png">
-<br>
+<br><br>
 
 ### ■ 野菜神輿レース
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/mikoshi.jpg">
-<br>
+<br><br>
 
 ### ■ Super Blue
 * 「ユーザの自由な選択・操作からユーザ各々の楽しみ方を見出すことができるコンテンツ」というテーマで作成したVRコンテンツです。<br>
 * ユーザーは、スペインの世界自然遺産であるスーパーブルーという氷の洞窟をモチーフにした洞窟の中を探検し、自由に写真を撮影することができます。
+<br>
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/super_blue.jpg">
-
+<br>
 **詳細**
 <br>公開時期：2017年10月<br>
 対象者　：イベント来場者<br>
@@ -144,19 +147,19 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>maya ：水連などの3Dモデルの作成<br>
 **ポイント**
 <br>・360度空間全体を使った仕掛けとストーリー性を実現するにことよりユーザを作品に引き込む工夫をしています
-<br>
+<br><br>
 
 ### ■ 嫌がらせVR
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/baseball.png" width="40%" height="40%">
-<br>
+<br><br>
 
 ### ■ Spider Nest VR
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/spider_nest.jpg">
-<br>
+<br><br>
 
 ## G-Destroy
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/G_Destroy.jpg">
-
+<br>
 **詳細**
 <br>公開時期：2018年10月
 <br>対象者　：イベント来場者
