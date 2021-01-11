@@ -9,7 +9,7 @@
 
 　大学学部生時には、複数のサークルに所属し、多くのコンテンツの開発や展示に携わりました。コンテンツの開発やユーザとの対話を通して要件定義、設計、開発、テストに至る一連の工程を実際に体験しながら学ぶことができました。<br>
 　大学院の研究では、システム利用においてユーザを動機付けるためにどのような要素が必要となるのか明らかにするために、学習・検証を繰り返し実施しました。本活動を通して、専門的な観点からユーザーを分析しシステム設計・デザインを行う手法を学びました。
-<br><br>
+<br><br><br>
 
 # ◆ PR
 ## ◇ 課外活動
@@ -24,7 +24,7 @@ KANAMEプロジェクトは多学科連携の理念のもと、地域の方々�
 KIESプロジェクトは、VRを用いたソリューションを開発することを目的として活動を行います。開発したコンテンツはイベントで展示を行い、実際にコンテンツを体験された方々との対話を基に次のプロジェクトテーマを決定します。<br>
 **役割：** <br>
 私は、プログラマーとしてだけでなく、プロジェクトマネージャーとしてコンテンツの企画・設計やプロジェクトの管理を担当させていただきました。私がプロジェクトを管理する立場として最も力を入れたのは後輩の育成です。プロジェクトを通してそれまでに培ってきたノウハウ特に言語化が困難なノウハウを後輩に伝達することに注力しました。
-<br><br>
+<br><br><br>
 
 # ◆ 技術・経験
 |種別|内容|
@@ -35,7 +35,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 |DB|MySQL|
 |クラウド|EC2, Herock|
 |その他|docker, Maya, Brender, Illustrator, Photoshop,<br>THree.js, Web Audio API, Tone.js,|
-<br><br>
+<br><br><br>
 
 # ◆ 研究
 ## ◇ 全方位コンテンツの浸透を目指した<br>　高臨場感コンテンツデザインシステム
@@ -60,7 +60,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>高臨場感コンテンツデザインシステムは、
 <br> **ポイント：**
 <br>本研究において
-<br><br>
+<br><br><br>
 
 # ◆ 制作作品
 ## ◇ プロジェクションマッピング
@@ -114,7 +114,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 
 ## ◇ VR
 ### ■ VR縁日
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/IMG_4816.JPG" width="50%" height="50%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/IMG_4816.JPG" width="40%" height="40%">
 <br>
 
 ### ■ VR GameCenter
@@ -147,7 +147,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br>
 
 ### ■ 嫌がらせVR
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/baseball.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/baseball.png" width="40%" height="40%">
 <br>
 
 ### ■ Spider Nest VR
