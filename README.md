@@ -15,7 +15,7 @@
 ## ◇ 課外活動
 私は、KIESプロジェクトとKANAMEプロジェクトという2つのサークルに所属し、複数のコンテンツの開発に携わりました。
 ### ■ KANAMEプロジェクト
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/KANAME_img.jpg" width="40%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/KANAME_img.jpg" width="50%">
 
 **活動内容：**<br>
 KANAMEプロジェクトは多学科連携の理念のもと、地域の方々からのご要望に応じたプロジェクションマッピングの企画・開発・展示を行います。<br>
@@ -23,7 +23,7 @@ KANAMEプロジェクトは多学科連携の理念のもと、地域の方々�
 本サークルでは、プログラマー・CGデザイナーとして投影される映像の作成を担当させていただきました。依頼者の方との打合せの際には、エンジニアの立場から企画への助言を行いました。本サークル活動を通して、要件定義から設計、開発、テストに至るまでの一連の工程を体験することができ、加えて実際の現場での施工作業などについても学ぶことができました。
 
 ### ■ KIESプロジェクト
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/KIES_img.jpg" width="40%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/KIES_img.jpg" width="50%">
 
 **活動内容：**<br>
 KIESプロジェクトは、VRを用いたソリューションを開発することを目的として活動を行います。開発したコンテンツはイベントで展示を行い、実際にコンテンツを体験された方々との対話を基に次のプロジェクトテーマを決定します。<br>
@@ -73,7 +73,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 ### ■ 未来への結び
 本作品は、神社の社へ至る参道をきれいに飾ってほしいという依頼を受け、制作した来場者参加型のコンテンツです
 
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/musubi.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/musubi.png" width="80%">
 
 **詳細：**
 <br>公開時期：2017年8月<br>
@@ -91,17 +91,17 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br><br>
 
 ### ■ デジタル紙芝居
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.png" width="80%>
 <br><br>
 
 ### ■ クイズ大会
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/quiz.jpg">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/quiz.jpg" width="80%>
 <br><br>
 
 ### ■ 川床
 本作品では、「川床」をモチーフに施設内に設営したベンチの間を流れていく川をプロジェクションマップを用いて表現しました。真夏の野外イベントにおいて休憩所として来場者の方々に安らぎと涼しさを提供しました。
 
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kawadoko.png" width="80%>
 
 **詳細**
 <br>公開時期：2018年8月<br>
@@ -126,18 +126,18 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br><br>
 
 ### ■ VR GameCenter
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/game_center.png">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/game_center.png" width="80%>
 <br><br>
 
 ### ■ 野菜神輿レース
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/mikoshi.jpg">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/mikoshi.jpg" width="80%>
 <br><br>
 
 ### ■ Super Blue
 * 「ユーザの自由な選択・操作からユーザ各々の楽しみ方を見出すことができるコンテンツ」というテーマで作成したVRコンテンツです。<br>
 * ユーザーは、スペインの世界自然遺産であるスーパーブルーという氷の洞窟をモチーフにした洞窟の中を探検し、自由に写真を撮影することができます。
 
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/super_blue.jpg">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/super_blue.jpg" width="80%>
 
 **詳細**
 <br>公開時期：2017年10月<br>
@@ -159,11 +159,11 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 <br><br>
 
 ### ■ Spider Nest VR
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/spider_nest.jpg">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/spider_nest.jpg" width="80%>
 <br><br>
 
 ## G-Destroy
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/G_Destroy.jpg">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/G_Destroy.jpg" width="80%>
 
 **詳細**
 <br>公開時期：2018年10月
