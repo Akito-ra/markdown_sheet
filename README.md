@@ -36,6 +36,7 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 |DB|MySQL|
 |クラウド|EC2, Herock|
 |その他|docker, Maya, Brender, Illustrator, Photoshop,<br>THree.js, Web Audio API, Tone.js,|
+
 <br><br><br>
 
 # ◆ 研究
