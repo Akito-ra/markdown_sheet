@@ -35,11 +35,11 @@ KIESプロジェクトは、VRを用いたソリューションを開発する�
 |種別|内容|
 |--|--|
 |言語|C# &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; ---> 3年以上<br>Python,Java,C ---> 2年以上<br> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> 1年半未満<br>html,PHP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> 1年未満<br>TypeScript &nbsp;&nbsp;&nbsp;&nbsp; ---> 半年未満|
-|フレームワーク|Unity, Pytouche, React.js, Laravel,<br>AndoroidStudio|
+|フレームワーク|Unity, Pytorch, React.js, Laravel,<br>Processing|
 |OS|Ubntsu, CentOS, MacOS|
 |DB|MySQL|
-|クラウド|EC2, Herock|
-|その他|docker, Maya, Brender, Illustrator, Photoshop,<br>THree.js, Web Audio API, Tone.js,|
+|クラウド|EC2, heroku|
+|その他|docker, Maya, Brender, Illustrator, Photoshop,<br>THree.js, Web Audio API, Tone.js, Open-unmix|
 
 <br><br><br>
 
