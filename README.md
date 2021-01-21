@@ -26,16 +26,16 @@ KANAMEプロジェクトは多学科連携の理念のもと、地域の方々�
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/KIES_img.jpg" width="70%">
 
 **活動内容：**<br>
-KIESプロジェクトは、VRを用いたソリューションを開発することを目的として活動を行います。開発したコンテンツはイベントで展示を行い、実際にコンテンツを体験された方々との対話を基に次のプロジェクトテーマを決定します。<br>
+KIESプロジェクトは、VRを用いたソリューション開発を目的に活動を。開発したコンテンツはイベントで展示を行い、実際にコンテンツを体験された方々との対話を基に次のプロジェクトテーマを決定します。<br>
 **役割：** <br>
-私は、プログラマーとしてだけでなく、プロジェクトマネージャーとしてコンテンツの企画・設計やプロジェクトの管理を担当させていただきました。私がプロジェクトを管理する立場として最も力を入れたのは後輩の育成です。プロジェクトを通してそれまでに培ってきたノウハウ特に言語化が困難なノウハウを後輩に伝達することに注力しました。<br>
+私は、プログラマーとしてだけでなく、プロジェクトマネージャーとしてコンテンツの企画・設計やプロジェクトの管理を担当させていただきました。私がプロジェクトを管理する立場として最も力を入れたのは後輩の育成です。私自身がそれまでに培ってきたノウハウを活動の中で後輩に可能な限り伝えるよう努めました。特に問題が発生した際の原因と解決策の割り出し方など言語化が困難なノウハウの伝達に注力しました。<br>
 [PR動画はこちら](https://www.youtube.com/watch?v=u3SU2HmRPCc)
 <br><br><br>
 
 # ◆ 技術・経験
 |種別|内容|
 |--|--|
-|言語|C# &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; ---> 3年以上<br>Python,Java,C ---> 2年以上<br> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> 1年半未満<br>html,PHP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---> 1年未満<br>TypeScript &nbsp;&nbsp;&nbsp;&nbsp; ---> 半年未満|
+|言語|C# ---> 3年以上<br>Java, C ---> 2年以上<br>JavaScript ---> 1年半未満<br>html, PHP, Swift, Python ---> 1年未満<br>TypeScript &nbsp;&nbsp;&nbsp;&nbsp; ---> 半年未満|
 |フレームワーク|Unity, Pytorch, React.js, Laravel,<br>Processing|
 |OS|Ubntsu, CentOS, MacOS|
 |DB|MySQL|
