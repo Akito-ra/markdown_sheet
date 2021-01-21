@@ -52,13 +52,13 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 <br><br>
 **システム動作概要：**
 <br>
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/research/operation_overview.jpg" width="50%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/research/operation_overview.jpg" width="60%">
 <br><br>
 
 **研究人数：**
 <br>1人
 <br> **役割：**
-<br>システム設計、クライアントサイド構築
+<br>システム設計、構築、評価
 <br> **使用技術：**
 <br>html ： UI構築
 <br>JavaScript ： コンテンツ制作機能の実装
@@ -69,10 +69,10 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 ***成果：***
 * **ヒューマンインターフェースシンポジウム2019**　にてポスター発表（ https://www.his.gr.jp/sympo/his2019.html ）<br>
 　学会　：ヒューマンインターフェース学会<br>
-　テーマ：複数台のモバイル端末を用いたARシステム<br><br>
+　テーマ：複数台のモバイル端末を用いたARシステム<br>
 * **ヒューマンインタフェース学会研究会「ニューノーマルを見据えたコミュニケーションデザインおよび一般(SIG-UXSD-12、SIG-CE-22）」** にて口頭発表（ https://jp.his.gr.jp/2020/08/24/meeting179/ ）<br>
 　学会　：ヒューマンインターフェース学会<br>
-　テーマ：ユーザビリティを考慮した高臨場感コンテンツデザインシステム<br><br>
+　テーマ：ユーザビリティを考慮した高臨場感コンテンツデザインシステム<br>
 * **インターロップ2019** へ参加（ https://www.interop.jp/2019/about/ ）
 <br><br><br>
 
