@@ -134,7 +134,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 <br>柱やベンチを避けて川が流れる様子を表現するために仮想空間内に現場を再現、衝突判定ではなく加速度情報を利用して川の蛇行を表現しました。
 <br><br><br>
 
-## ◇ VR
+## ◇ VRコンテンツ
 ### ■ VR縁日
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/IMG_4816.JPG" width="40%" height="40%">
 <br><br>
