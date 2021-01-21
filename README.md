@@ -220,7 +220,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 <br><br><br>
 
 ## ◇ ゲーム
-## ◇ GoGoRe 闇グル迷路
+## ■ GoGoRe 闇グル迷路
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/classroom_game.jpg" width="100%">
 <br><br><br><br>
 
