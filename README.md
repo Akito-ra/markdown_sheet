@@ -126,7 +126,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 **使用した技術**
 <br>Unity（C#）：投影用の映像の作成
 <br>maya ：3Dモデルの作成
-<br>java : 専用サーバ構築
+<br>java : 専用サーバー構築
 <br>html ,JavaScript ： 演出制御用アプリケーション構築
 <br>Illustratir, PhotoShop : テクスチャ作成
 <br> 
