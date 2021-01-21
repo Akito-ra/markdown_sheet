@@ -51,9 +51,8 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 様々な空間を高い臨場感で提示できる全方位コンテンツを一般ユーザでも手軽に制作できるようぬするために、複数の全方位動画像と音声を組み合わせた全方位コンテンツの制作・共有が可能な3DWebアプリケーション「高臨場感コンテンツデザインシステム」の開発と評価に取り組んでいます。これまでの研究では、直感的な操作性を重視したコンテンツ制作機能の実装やUX向上に必要となる要素の調査・分析を実施、学会やインターロップにて成果報告を行いました。今後は、「手軽さ」「創作意欲」の向上に重点を置き、素材収集からコンテンツ制作までを身近な端末一台で行えるようにする機能や独創性を持ったコンテンツの制作を可能とする機能の実装を行います。また、高齢者の回想法を支援するコンテンツなどシステムの具体的な利用例を示すコンテンツの制作を予定しています。
 <br><br>
 **システム動作概要：**
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_structure.jpg">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/research/operation_overview.jpg">
 <br><br>
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/design_system_overview.jpg">
 
 **研究人数：**
 <br>1人
