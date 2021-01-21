@@ -36,7 +36,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 |種別|内容|
 |--|--|
 |言語|C# ---> 3年以上<br>Java, C ---> 2年以上<br>JavaScript ---> 1年半未満<br>html, PHP, Swift, Python ---> 1年未満<br>TypeScript &nbsp;&nbsp;&nbsp;&nbsp; ---> 半年未満|
-|フレームワーク|Unity, Pytorch, React.js, Laravel,<br>Processing|
+|フレームワーク|Unity, Pytorch, React.js, Laravel, Processing|
 |OS|Ubntsu, CentOS, MacOS|
 |DB|MySQL|
 |クラウド|EC2, heroku|
@@ -64,7 +64,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 <br>JavaScript ： コンテンツ制作機能の実装
 <br>Python ： データ管理、音源分離、JSONファイル編集
 <br>PHP : ログイン情報・セッション管理
-<br>その他 : docker ,Herock ,MySQL
+<br>その他 : docker, heroku, MySQL, Laravel, Three.js, Web Audio API, 
 <br><br>
 ***成果：***
 * **ヒューマンインターフェースシンポジウム2019**　にてポスター発表（ https://www.his.gr.jp/sympo/his2019.html ）<br>
