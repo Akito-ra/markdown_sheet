@@ -52,7 +52,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 <br><br>
 **システム動作概要：**
 <br>
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/research/operation_overview.jpg" width="90">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/research/operation_overview.jpg" width="90%">
 <br><br>
 
 **研究人数：**
