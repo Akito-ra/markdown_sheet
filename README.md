@@ -235,7 +235,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 <br>制作期間：3ヶ月<br>
 <br>
 **使用した技術**
-<br>Swift: アプリケーション実装
+<br>Swift : アプリケーション実装
 <br>Illustratir, PhotoShop : テクスチャ作成
 <br>
 **役割**
