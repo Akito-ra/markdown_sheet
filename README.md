@@ -40,7 +40,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 |OS|Ubntsu, CentOS, MacOS|
 |DB|MySQL|
 |クラウド|EC2, heroku|
-|その他|docker, Maya, Brender, Illustrator, Photoshop,<br>THree.js, Web Audio API, Tone.js, Open-unmix|
+|その他|docker, Maya, Brender, Illustrator, Photoshop,<br>Tree.js, Web Audio API, Tone.js, Open-unmix|
 
 <br><br><br>
 
@@ -235,7 +235,8 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 <br>制作期間：3ヶ月<br>
 <br>
 **使用した技術**
-<br>Swift
+<br>Swift: アプリケーション実装
+<br>Illustratir, PhotoShop : テクスチャ作成
 <br>
 **役割**
 <br>コンテンツ作成
