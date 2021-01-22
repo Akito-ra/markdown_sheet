@@ -221,13 +221,13 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 
 ## ◇ ゲーム
 ## ■ 闇グル迷路
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/classroom_game.jpg" width="100%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/classroom_game.jpg">
 <br><br><br><br>
 
 ## ◇ ARアプリケーション
 ## ■ 火災シミュレーション
 本アプリケーションは、複数台のモバイル端末を用いてマルチサラウンド環境を構築することが可能となっており、映像に加えて臨場感のある音を提示することで防災意識の向上を図っています。
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/classroom_game.jpg" width="100%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/fire_sim.jpg">
 
 **詳細**
 <br>対象者　：アプリ利用者
@@ -242,7 +242,8 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 <br>
 **ポイント**
 <br>
-
+・炎の様子を撮影した動画を長時間にわたり観察し、炎が燃え広がるプロセスを再現することでリアリティと教育効果を向上させています
+・マルチサラウンドシステムの利点を生かして炎と共に音も広がっていく様子を表現することで、臨場感を向上させています
 <br>
 <br><br>
 
