@@ -222,7 +222,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 ## ◇ ゲーム
 ## ■ 闇グル迷路
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/classroom_game.jpg">
-<br><br><br><br>
+<br><br><br>
 
 ## ◇ ARアプリケーション
 ## ■ 火災シミュレーション
