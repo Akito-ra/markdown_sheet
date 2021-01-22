@@ -40,7 +40,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 |OS|Ubntsu, CentOS, MacOS|
 |DB|MySQL|
 |クラウド|EC2, heroku|
-|その他|docker, Maya, Brender, Illustrator, Photoshop,<br>Tree.js, Web Audio API, Tone.js, Open-unmix|
+|その他|docker, Maya, Brender, Illustrator, Photoshop,<br>Three.js, Web Audio API, Tone.js, Open-unmix|
 
 <br><br><br>
 
