@@ -102,6 +102,7 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 <br>
 本作品は3DCG技術を用いて制作されておりますが、描画手法を平行投影に切り替えることや輪郭をぼかし影を薄くすることで、映像として出力される際の立体感をなくしています。これによりどの角度から見ても違和感を感じさせないようにしつつ、神秘的な「光の広がり」を表現することに成功しました。
 <br><br>
+詳細はこちら＞＞　（https://jp.his.gr.jp/2020/08/24/meeting179/）
 
 ### ■ デジタル紙芝居
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/kamishibai.jpg" width="80%">
@@ -170,6 +171,9 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 **ポイント**
 <br>・360度空間全体を使った仕掛けとストーリー性を実現することによりユーザを作品に引き込む工夫をしています
 <br>・「思わず写真を撮りたくなる美しさ」を実現することにこだわり、陰影のバランスを考慮したライティングの調整や凹凸の作成を行いました。
+<br><br>
+詳細はこちら ＞＞　（https://jp.his.gr.jp/2020/08/24/meeting179/）
+体験動画はこちら ＞＞ （https://jp.his.gr.jp/2020/08/24/meeting179/）
 <br><br><br>
 
 ### ■ 嫌がらせVR
@@ -178,6 +182,9 @@ KIESプロジェクトは、VRを用いたソリューション開発を目的�
 
 ### ■ Spider Nest VR
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/spider_nest.jpg" width="80%">
+<br><br>
+詳細はこちら ＞＞　（https://jp.his.gr.jp/2020/08/24/meeting179/）
+体験動画はこちら ＞＞ （https://jp.his.gr.jp/2020/08/24/meeting179/）
 <br><br>
 
 ### ■ G-Destroy
