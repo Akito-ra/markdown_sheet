@@ -13,7 +13,7 @@
 
 # ◆ PR
 ## ◇ 課外活動
-私は、KIESプロジェクトとKANAMEプロジェクトという2つのサークルに所属し、複数のコンテンツの開発に携わりました。
+私は、KIESプロジェクトとKANAMEプロジェクトという2つの課外活動団体に所属し、複数のコンテンツの開発に携わりました。
 ### ■ KANAMEプロジェクト
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/KANAME_img.jpg" width="70%">
 
