@@ -36,11 +36,11 @@ KIESプロジェクトでは、「VRの可能性を拡げる」という理念�
 |種別|内容|
 |--|--|
 |言語|C#　&emsp;　&emsp;　&emsp;　&emsp;　&ensp; ---> 3年以上<br>Java, C &emsp;　&emsp;　&emsp;　&emsp;&nbsp; ---> 2年以上<br>JavaScript　&emsp;　&emsp;　&ensp;　---> 1年半未満<br>html, PHP, Swift, Python ---> 1年未満<br>TypeScript　&emsp;　&emsp;　&emsp; ---> 半年未満|
-|フレームワーク|Unity, Pytorch, React.js, Laravel, Processing|
-|OS|Ubuntu, CentOS|
+|フレームワーク|Unity, Pytorch, Django|
+|OS|CentOS|
 |DB|MySQL|
 |クラウド|EC2, heroku|
-|その他|docker, Maya, Brender, Illustrator, Photoshop,<br>Three.js, Web Audio API, Tone.js, Open-unmix|
+|その他|docker, Maya, Brender, Illustrator, Photoshop,<br>Three.js, Web Audio API|
 
 <br><br><br>
 
